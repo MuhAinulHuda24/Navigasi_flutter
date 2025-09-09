@@ -26,5 +26,19 @@ Navigator (untuk berpindah halaman)
 <img width="764" height="575" alt="image" src="https://github.com/user-attachments/assets/38c82ace-fc53-415c-ba45-be356b7511ff" />
 
 ## Langkah 7: Menambahkan aksi pada ListView
-~
+~ 
+Saat ini, tiap item di ListView belum bisa melakukan apa-apa kalau diklik. Nah, biar bisa, kita bisa pakai widget InkWell atau GestureDetector. Bedanya, InkWell itu khusus untuk bikin efek sentuhan yang ada riaknya (mirip efek tinta), sedangkan GestureDetector lebih fleksibel karena bisa dipakai untuk berbagai macam gestur, enggak cuma klik. Di praktikum ini, kita akan pakai InkWell.
+# Hasil Akhir
+~ Dekstop
+<img width="1919" height="1006" alt="image" src="https://github.com/user-attachments/assets/a0e307dd-e8e9-45b3-9512-65882aaa42e3" />
+<img width="1919" height="1009" alt="image" src="https://github.com/user-attachments/assets/f3f55048-b365-48eb-8974-76a5b50f9c17" />
+
+~ Ios
+
+<img width="325" height="696" alt="image" src="https://github.com/user-attachments/assets/225f4f04-31b5-40dd-8686-f5700ca773b2" />
+<img width="326" height="694" alt="image" src="https://github.com/user-attachments/assets/5fe8d840-e795-443d-8faa-312a0f6dd777" />
+
+
+
+
 
